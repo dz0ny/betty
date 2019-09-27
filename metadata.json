@@ -1,0 +1,8 @@
+{
+  "name": "Betty",
+  "description": "Launcher",
+  "uuid": "betty@dz0ny.info",
+  "shell-version": [
+    "3.34"
+  ]
+}
